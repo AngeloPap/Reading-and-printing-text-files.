@@ -1,5 +1,8 @@
 # Reading-and-printing-text-files.
 This program takes in a text file and prints out the names and the birthdates of these people, from a specific example text file.
+
+This program doesn't need any other downloads to get this file to work.
+
 If you wanted to try this code for yourself, paste these names and dates or choose your own names and dates with the same format as the below example:
 
 "Orville Wright 21 July 1988
